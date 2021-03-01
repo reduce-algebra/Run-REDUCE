@@ -1,0 +1,17 @@
+# Disable GitHub Linguist
+docs/* linguist-vendored
+.github/* linguist-vendored
+installers/* linguist-vendored
+resources/* linguist-vendored
+.run/* linguist-vendored
+src/* linguist-vendored
+test/* linguist-vendored
+build linguist-vendored
+*.ico linguist-vendored
+*.bat linguist-vendored
+*.html linguist-vendored
+*.red linguist-vendored
+*.css linguist-vendored
+*.js linguist-vendored
+*.woff linguist-vendored
+*.tst linguist-vendored
