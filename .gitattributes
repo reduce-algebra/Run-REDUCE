@@ -15,3 +15,6 @@ build linguist-vendored
 *.js linguist-vendored
 *.woff linguist-vendored
 *.tst linguist-vendored
+*.bat linguist-vendored
+*.md linguist-vendored
+Run-REDUCE linguist-vendored
