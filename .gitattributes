@@ -17,4 +17,7 @@ build linguist-vendored
 *.tst linguist-vendored
 *.bat linguist-vendored
 *.md linguist-vendored
+*.java linguist-vendored
+.java linguist-vendored
 Run-REDUCE linguist-vendored
+* linguist-vendored
