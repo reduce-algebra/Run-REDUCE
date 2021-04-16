@@ -8,7 +8,7 @@ I originally implemented Run-REDUCE using Swing as the obsolete
 project now called
 [Run-REDUCE-0](https://fjwright.github.io/Run-REDUCE-0/) and I called
 the current JavaFX version Run-REDUCE-FX, but I have since dropped the
-"-FX" suffix.  Run-REDUCE requires Java and JavaFX version 11 or
+"-FX" suffix. Run-REDUCE requires Java and JavaFX version 11 or
 later, although I recommend using version 16 since I currently build
 Run-REDUCE using Java 16, set to language level 11, plus JavaFX 16.
 Future versions may require Java 16 or later.
@@ -19,7 +19,7 @@ Debian (e.g. Ubuntu) or Red Hat (e.g. Fedora), which include all
 required Java and JavaFX support and hide the implementation details.
 
 For further general background information please see the [Run-REDUCE
-web page](https://fjwright.github.io/Run-REDUCE/).  For information
+web page](https://fjwright.github.io/Run-REDUCE/). For information
 about how to install and run Run-REDUCE please see the [Install and
 Run Guide](https://fjwright.github.io/Run-REDUCE/InstallAndRun.html).
 For information about how to use Run-REDUCE please see the [User
@@ -35,7 +35,7 @@ later), but I can only test it on Microsoft Windows and Gnu/Linux.
 conventions and display systems are not!)
 
 REDUCE itself is an open source project available from
-[SourceForge](https://sourceforge.net/projects/reduce-algebra/).  I'm
+[SourceForge](https://sourceforge.net/projects/reduce-algebra/). I'm
 releasing Run-REDUCE under the [BSD 2-Clause License](LICENSE), mainly
 because it's the license used by REDUCE.
 
@@ -43,9 +43,8 @@ This project is set up for development using [IntelliJ
 IDEA](https://www.jetbrains.com/idea/) with Run-REDUCE as the
 top-level directory.
 
-
 ### Acknowledgements
 
 Run-REDUCE uses a bundled copy of [KaTeX](https://katex.org) to render
-LaTeX output by code based on the REDUCE *tmprint* package when the
-*Typeset Maths* option is selected.
+LaTeX output by code based on the REDUCE _tmprint_ package when the
+_Typeset Maths_ option is selected.
