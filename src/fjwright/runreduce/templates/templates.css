@@ -1,20 +1,20 @@
 /* Labels */
 
 .d-symbol {
-    -fx-font-size: 20px;
+  -fx-font-size: 20px;
 }
 .lim-symbol {
-    -fx-font-size: 20px;
+  -fx-font-size: 20px;
 }
 .lim-dir {
-    -fx-font-size: 15px;
-    -fx-translate-y: -5;
-    -fx-border-width: 1px;
-    -fx-border-color: lightgray;
+  -fx-font-size: 15px;
+  -fx-translate-y: -5;
+  -fx-border-width: 1px;
+  -fx-border-color: lightgray;
 }
 .sum-prod-symbol {
-    -fx-font-size: 50px;
-    -fx-translate-y: -5;
+  -fx-font-size: 50px;
+  -fx-translate-y: -5;
 }
 /*
 The JavaFX CSS Reference Guide appears to be wrong.
@@ -22,30 +22,30 @@ A radio button label is actually a LabeledText object that extends javafx.scene.
 and its style class is text, not label.
 */
 .sum-prod-buttons .radio-button .text {
-    -fx-font-size: 20px;
-    -fx-translate-y: -2;
+  -fx-font-size: 20px;
+  -fx-translate-y: -2;
 }
 .bracket {
-    -fx-font-size: 130px;
-    -fx-translate-y: -10;
+  -fx-font-size: 130px;
+  -fx-translate-y: -10;
 }
 
 /* TextFields */
 
 .styled-textfields .text-field {
-    -fx-font-size: 20px;
-    -fx-font-style: italic;
-    -fx-padding: 0;
+  -fx-font-size: 20px;
+  -fx-font-style: italic;
+  -fx-padding: 0;
 }
 .styled-textfields .order {
-    -fx-font-size: 15px;
-    -fx-translate-y: -5;
-    -fx-font-style: normal;
+  -fx-font-size: 15px;
+  -fx-translate-y: -5;
+  -fx-font-style: normal;
 }
 .styled-textfields .limit {
-    -fx-font-size: 15px;
+  -fx-font-size: 15px;
 }
 /* 'For' template only */
 .tab-header-background {
-    -fx-background-color: transparent
+  -fx-background-color: transparent;
 }
