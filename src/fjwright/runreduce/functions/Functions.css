@@ -1,28 +1,28 @@
 .symbol {
-    -fx-font-size: 25px;
+  -fx-font-size: 25px;
 }
 .text-field {
-    -fx-font-size: 20px;
-    -fx-font-style: italic;
-    -fx-padding: 0;
+  -fx-font-size: 20px;
+  -fx-font-style: italic;
+  -fx-padding: 0;
 }
 .superscript {
-    -fx-font-size: 15px;
-    -fx-translate-y: -8;
+  -fx-font-size: 15px;
+  -fx-translate-y: -8;
 }
 .subscript {
-    -fx-font-size: 15px;
-    -fx-translate-y: +15;
+  -fx-font-size: 15px;
+  -fx-translate-y: +15;
 }
 .bracket {
-    -fx-font-size: 60px;
-    -fx-translate-y: -5;
+  -fx-font-size: 60px;
+  -fx-translate-y: -5;
 }
 .tooltip {
-    -fx-font-size: 12px;
-    -fx-font-style: normal;
-    -fx-font-weight: normal;
+  -fx-font-size: 12px;
+  -fx-font-style: normal;
+  -fx-font-weight: normal;
 }
 .sqrt-symbol {
-    -fx-font-size: 40px;
+  -fx-font-size: 40px;
 }
